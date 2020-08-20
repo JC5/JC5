@@ -16,6 +16,8 @@ Other stuff I'm working on:
 3. I use some [basic classes](https://github.com/JC5/api-support-classes) to manage the Firefly III API
 4. I forked a [Roam layout](https://github.com/JC5/better-roam-research) so I could change the font size.
 
+Also, as you can see in the bottom left corner, a lot of people are sponsoring me for the work I do on Firefly III. I'm very proud to have such a nice group of people willing to support me. Thank you! :tada:
+
 [![JC5's github stats](https://github-readme-stats.vercel.app/api?username=JC5)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Contact
