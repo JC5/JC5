@@ -13,7 +13,7 @@ Other stuff I'm working on:
 
 1. I created basic Docker images for [wallabag](https://github.com/JC5/wallabag), [Monica](https://github.com/JC5/monica-multi-arch) and [TT-RSS](https://github.com/JC5/docker-ttrss) because there was nothing available that I could use. 
 2. I forked an excellent [2FA library](https://github.com/JC5/google2fa-laravel) so I could improve its session management a little.
-3. I use some [basic classes] to manage the Firefly III API(https://github.com/JC5/api-support-classes)
+3. I use some [basic classes](https://github.com/JC5/api-support-classes) to manage the Firefly III API
 4. I forked a [Roam layout](https://github.com/JC5/better-roam-research) so I could change the font size.
 
 [![JC5's github stats](https://github-readme-stats.vercel.app/api?username=JC5)](https://github.com/anuraghazra/github-readme-stats)
