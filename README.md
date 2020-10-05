@@ -9,14 +9,7 @@ But also interesting (even though I say so myself) are the following tools (for 
 1. [Product manager](https://github.com/JC5/product-manager). A tool to manage costs and expenses of stuff you enter into Firefly III.
 2. [Auto save tool](https://github.com/JC5/autosave). A tool to round up transactions saved in Firefly III.
 
-Other stuff I'm working on:
-
-1. I created basic Docker images for [wallabag](https://github.com/JC5/wallabag), [Monica](https://github.com/JC5/monica-multi-arch) and [TT-RSS](https://github.com/JC5/docker-ttrss) because there was nothing available that I could use. 
-2. I forked an excellent [2FA library](https://github.com/JC5/google2fa-laravel) so I could improve its session management a little.
-3. I use some [basic classes](https://github.com/JC5/api-support-classes) to manage the Firefly III API
-4. I forked a [Roam layout](https://github.com/JC5/better-roam-research) so I could change the font size.
-
-Also, as you can see in the bottom left corner, a lot of people are sponsoring me for the work I do on Firefly III. I'm very proud to have such a nice group of people willing to support me. Thank you! :tada:
+As you can see in the bottom left corner, a lot of people are sponsoring me for the work I do on Firefly III. I'm very proud to have such a nice group of people willing to support me. Thank you! :tada:
 
 [![JC5's github stats](https://github-readme-stats.vercel.app/api?username=JC5)](https://github.com/anuraghazra/github-readme-stats)
 
